@@ -1,0 +1,45 @@
+.container {
+	width: 800px;
+	height: 1000px;
+	margin: 50px;
+	border-style: solid;
+	text-align: center;
+	border-color: black;
+}
+
+h1 {
+	color: black;
+}
+.title {
+	margin-top: 40px;
+}
+
+.timer {
+  font-family: monospace;
+  font-size: 50px;
+  color: green;
+  text-align: center;
+  background: white;
+}
+
+.instructions {
+	color: black;
+}
+
+.timeremaining {
+	
+}
+
+.form {
+	margin-top: 10px;
+}
+#startbutton {
+	margin-top: 10px;
+	font-size: 10px ;
+}
+
+.submit {
+	font-size: 20px;
+	margin-top: 20px;
+	padding: 5px;
+}
